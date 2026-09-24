@@ -1,4 +1,4 @@
-# Student Attendance System
+# Student Attendance System 
 
 A web-based Student Attendance Management System built using Python Flask and SQLite.
 
